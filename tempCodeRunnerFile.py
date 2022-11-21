@@ -1,0 +1,1 @@
+busca_palavras(base_stemmada_sem_stopwords)
